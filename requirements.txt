@@ -1,0 +1,4 @@
+Flask
+presidio-analyzer
+presidio-anonymizer
+gunicorn
